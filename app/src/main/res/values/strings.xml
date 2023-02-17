@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChangeLanguage</string>
+    <string name="welcome">Welcome to login page</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="change">TiengViet</string>
+    <string name="login">Login</string>
+</resources>

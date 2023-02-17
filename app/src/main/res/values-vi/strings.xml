@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChangeLanguage</string>
+    <string name="welcome">Chào mừng đến trang đăng nhập</string>
+    <string name="user">Tên Đăng Nhập</string>
+    <string name="pass">Mật Khẩu</string>
+    <string name="change">TiengViet</string>
+    <string name="login">Đăng Nhập</string>
+</resources>
